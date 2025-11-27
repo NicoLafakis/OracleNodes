@@ -63,11 +63,11 @@
 - **Rationale**: Figma adding AI features for design assistance
 - **Evidence**: AI-powered features in product roadmap
 
-### **Thread T340: N102 → 2025 IPO Market Recovery**
+### **Thread T340: N102 → N78 (IPO Market Recovery Pattern)**
 - **Relationship**: *exemplifies*
 - **Confidence**: 90%
-- **Rationale**: High-profile SaaS IPO in recovering market
-- **Evidence**: Part of broader tech IPO pipeline
+- **Rationale**: Both CoreWeave and Figma IPOs demonstrate tech IPO market recovery in 2025
+- **Evidence**: Part of broader tech IPO pipeline following CoreWeave's March debut
 
 ---
 

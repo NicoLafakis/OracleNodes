@@ -62,11 +62,11 @@
 - **Rationale**: Neobanks adopting AI for customer service, fraud detection
 - **Evidence**: Industry-wide AI investment in banking
 
-### **Thread T336: N100 → 2025 IPO Market Recovery**
+### **Thread T336: N100 → N78 (IPO Market Recovery Pattern)**
 - **Relationship**: *exemplifies*
 - **Confidence**: 90%
-- **Rationale**: Chime IPO part of broader tech IPO market recovery
-- **Evidence**: IPO market up 38% in 2025
+- **Rationale**: Both CoreWeave and Chime IPOs demonstrate tech IPO market recovery in 2025
+- **Evidence**: IPO market up 38% in 2025, following CoreWeave's March debut
 
 ---
 

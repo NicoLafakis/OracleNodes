@@ -62,11 +62,11 @@
 - **Rationale**: Bitcoin ETFs + stablecoin IPO = comprehensive crypto legitimacy
 - **Evidence**: Institutional adoption across crypto categories
 
-### **Thread T338: N101 → Financial Regulation Evolution**
+### **Thread T338: N101 → N88 (Regulatory Clarity Enables IPO)**
 - **Relationship**: *enabled by*
 - **Confidence**: 85%
-- **Rationale**: GENIUS Act enables clear path to public markets
-- **Evidence**: Regulatory clarity prerequisite for IPO
+- **Rationale**: EU AI Act and US GENIUS Act provide regulatory clarity for crypto firms
+- **Evidence**: Regulatory frameworks prerequisite for public market access
 
 ---
 

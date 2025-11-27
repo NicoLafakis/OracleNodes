@@ -63,11 +63,11 @@
 - **Rationale**: AI tools enhance TPD drug development
 - **Evidence**: AlphaFold protein prediction aids TPD design
 
-### **Thread T334: N99 → N87 (J&J Restructuring Post-Kenvue)**
-- **Relationship**: *follows*
+### **Thread T334: N99 → N96 (AI Enhances TPD Drug Discovery)**
+- **Relationship**: *complements*
 - **Confidence**: 90%
-- **Rationale**: Pharma focus enabled by consumer business spin-off
-- **Evidence**: Capital freed from Kenvue enables acquisitions
+- **Rationale**: AI tools accelerate targeted protein degradation drug development
+- **Evidence**: AlphaFold protein prediction aids TPD design, FDA approvals accelerating
 
 ---
 

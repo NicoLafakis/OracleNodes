@@ -62,11 +62,11 @@
 - **Rationale**: SSI offers different approach to OpenAI and Anthropic
 - **Evidence**: Sutskever's departure signals philosophical difference
 
-### **Thread T342: N103 → AI Safety Governance**
+### **Thread T342: N103 → N88 (Safety Research Informs Regulation)**
 - **Relationship**: *influences*
 - **Confidence**: 85%
-- **Rationale**: Independent safety research informs policy discussions
-- **Evidence**: Sutskever's credibility lends weight to safety arguments
+- **Rationale**: Independent safety research informs EU AI Act and future regulatory discussions
+- **Evidence**: Sutskever's credibility lends weight to safety arguments in policy debates
 
 ---
 

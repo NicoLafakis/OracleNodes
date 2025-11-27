@@ -67,11 +67,11 @@
 - **Rationale**: Mega-merger reflects 2025's deal-making resurgence
 - **Evidence**: Part of broader M&A activity increase
 
-### **Thread T310: N87 → J&J Strategic Restructuring**
-- **Relationship**: *results from*
+### **Thread T310: N87 → N99 (J&J Continues Pharma Acquisitions)**
+- **Relationship**: *enables*
 - **Confidence**: 85%
-- **Rationale**: J&J's consumer spin-off enabled this consolidation
-- **Evidence**: Kenvue separated specifically for strategic flexibility
+- **Rationale**: Kenvue sale freed J&J to focus on pharma acquisitions like Halda
+- **Evidence**: J&J's $3B Halda acquisition follows Kenvue divestiture strategy
 
 ---
 

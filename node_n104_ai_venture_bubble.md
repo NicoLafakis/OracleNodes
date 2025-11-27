@@ -69,11 +69,11 @@
 - **Rationale**: Individual funding nodes demonstrate bubble pattern
 - **Evidence**: Combined valuations of documented rounds
 
-### **Thread T344: N104 → Historical Tech Bubble Parallels**
-- **Relationship**: *echoes*
+### **Thread T344: N104 → N83 (Market Rally Concentration Risk)**
+- **Relationship**: *reflects in*
 - **Confidence**: 85%
-- **Rationale**: Patterns similar to dot-com era
-- **Evidence**: Valuation multiples, concentration, FOMO dynamics
+- **Rationale**: AI-driven S&P 500 rally shows similar concentration patterns
+- **Evidence**: Both venture funding and public markets show AI-dominant concentration
 
 ---
 
